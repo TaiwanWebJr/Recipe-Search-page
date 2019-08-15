@@ -1,5 +1,6 @@
 .recipe{
-    width: 40%;
+    width: 30%;
+    box-sizing: border-box;
     background-color: #fff;
     border-radius: 5px;
     display: flex;
@@ -8,4 +9,16 @@
     justify-content: center;
     margin: 20px;
     padding: 20px;
+}
+.recipe h3{
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.recipe ol{
+    width: 300px;
+    padding-bottom: 10px;
+}
+.recipe li{
+    line-height: 20px;
 }
