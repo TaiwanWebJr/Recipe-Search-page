@@ -1,0 +1,34 @@
+.recipe-load{
+    width: 30%;
+    height: 450px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+}
+.recipe-load h3{
+    width: 50%;
+    height: 30px;
+    margin-bottom: 20px;
+    background-color: #ccc;
+}
+.recipe-load ol{
+    width: 300px;
+    padding-bottom: 10px;
+}
+.recipe-load li{
+    width: 100%;
+    height: 15px;
+    margin: 5px 0;
+    background-color: #ccc;
+}
+.recipe-load img{
+    width: 300px;
+    height: 300px;
+    background-color: #ccc;
+}
