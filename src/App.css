@@ -7,6 +7,7 @@ h1{
   font-size: 50px;
   font-weight: bold;
   padding: 20px;
+  padding-bottom: 0;
   color:#0d6ecf;
 }
 .search-form{
@@ -41,6 +42,15 @@ h1{
   flex-wrap: wrap;
   align-items: flex-start;
   justify-content: flex-start;
+}
+.recipes-title{
+  width: 1200px;
+  margin: auto;
+  font-size: 26px;
+  font-weight: bold;
+  padding-left: 40px;
+  text-transform: uppercase;
+  color:#178ba0;
 }
 .recommend{
   width: 1200px;
